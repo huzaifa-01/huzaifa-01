@@ -11,6 +11,8 @@ I run **[MatrixInn Solutions](https://matrixinnsolutions.com)** — an AI-first 
 - 🖼️ [Ogwave](https://og.matrixinnsolutions.com) · automatic Open Graph images from your sitemap
 - 🛠️ [19 free dev tools](https://tools.matrixinnsolutions.com) · [bulk .htaccess redirect generator](https://tools.matrixinnsolutions.com/htaccess-redirect-generator), JSON formatter, JWT decoder and more — all in-browser
 
+**Open source:** [htaccess-redirects](https://github.com/huzaifa-01/htaccess-redirects) · turn a CSV of old → new URLs into bulk `.htaccess` 301 redirects (Node CLI + library)
+
 **Recent writing:** [Bulk 301 Redirects in .htaccess: A Step-by-Step Guide](https://matrixinnsolutions.com/blog/bulk-301-redirects-htaccess) · [How to Build a Chrome Extension (Manifest V3)](https://matrixinnsolutions.com/blog/how-to-build-chrome-extension-mv3)
 
 📫 contact@matrixinnsolutions.com · 📝 [Blog](https://matrixinnsolutions.com/blog/)
